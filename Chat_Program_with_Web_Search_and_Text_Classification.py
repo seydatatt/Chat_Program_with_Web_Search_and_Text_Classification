@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[46]:
-
-
-#Şeyda Tat 07.06.2024
 import sqlite3
 from transformers import pipeline
 import requests
@@ -134,31 +130,6 @@ if __name__ == "__main__":
     CX = 'Your_CX' 
     chat_program = ChatProgram(API_KEY, CX)
     chat_program.run()
-
-
-
-# In[40]:
-
-
-
-
-
-# In[41]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
 
 # In[ ]:
