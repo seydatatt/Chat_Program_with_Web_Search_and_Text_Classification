@@ -1,5 +1,4 @@
 # Chat_Program_with_Web_Search_and_Text_Classification
-# Chat Program with Web Search and Text Classification
 
 This project is a Chat Program that analyzes user input text, classifies it into relevant topics, and fetches appropriate links from the web. The program continues to run until the user issues an exit command. It utilizes a text classification model and web search to provide related links based on the classified topics.
 
