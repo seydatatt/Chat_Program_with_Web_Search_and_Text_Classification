@@ -131,7 +131,7 @@ class ChatProgram:
 
 if __name__ == "__main__":
     API_KEY = 'Your_API_KEY'  
-    CX = 'Your_CX 
+    CX = 'Your_CX' 
     chat_program = ChatProgram(API_KEY, CX)
     chat_program.run()
 
